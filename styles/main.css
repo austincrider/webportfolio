@@ -1,3 +1,11 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
 h2 {
+    color: white;
     background: grey;
+}
+footer {
+    color: white;
+    background: black;
 }
