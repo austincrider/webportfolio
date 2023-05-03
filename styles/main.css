@@ -10,9 +10,8 @@ h2 {
     color: #F1F6F9;
     background: #212A3E;
     font-weight: normal;
-    width: 100%;
-    border: 5px dashed black;
-    padding: 2%;
+    border: 2px dashed black;
+    padding: 5px;
     text-align: center;
 }
 h3 {
@@ -31,7 +30,7 @@ a {
     color: #394867;
 }
 ul {
-    align-self: center;
+    
 }
 .bruno_font {
     font-family: 'Bruno Ace SC', Arial;
