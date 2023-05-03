@@ -10,6 +10,12 @@ h2 {
     color: #F1F6F9;
     background: #212A3E;
     font-weight: normal;
+    width: 100%;
+    border: 5px dashed black;
+    padding: 2%;
+    text-align: center;
+}
+h3 {
 }
 img {
     display: block;
@@ -24,7 +30,13 @@ footer {
 a {
     color: #394867;
 }
+ul {
+    align-self: center;
+}
 .bruno_font {
-    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Bruno Ace SC', Arial;
     text-align: center;
+}
+div {
+    margin: 0% 20%;
 }
