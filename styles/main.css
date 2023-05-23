@@ -35,9 +35,6 @@ footer {
 a {
     color: #394867;
 }
-ul {
-    
-}
 .bruno_font {
     font-family: 'Bruno Ace SC', Arial;
     text-align: center;
@@ -70,5 +67,9 @@ div {
         background-color: #394867;
         padding: 1px;
         border-radius: 50%;
+    }
+    div {
+        margin: 0% 1%;
+        position: relative;
     }
 }
