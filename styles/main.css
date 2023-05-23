@@ -50,6 +50,12 @@ div {
     background-color: white;
 }
 @media (max-width: 400px) {
+    h1 {
+        color: #212A3E;
+        font-size: 40pt;
+        margin: auto;
+        padding: 1px;
+    }
     h2 {
         font-family: 'Bruno Ace SC', Arial;
         color: #F1F6F9;
