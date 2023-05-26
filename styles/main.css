@@ -67,7 +67,7 @@ p {
 .highlight {
     background-color: white;
 }
-@media (max-width: 400px) {
+/* @media (max-width: 400px) {
     h1 {
         color: #212A3E;
         font-size: 40pt;
@@ -92,8 +92,8 @@ p {
         padding: 1px;
         border-radius: 50%;
     }
-    /*div {
+    div {
         margin: 0% 1%;
         position: relative;
-    } */
-}
+    }
+} */
