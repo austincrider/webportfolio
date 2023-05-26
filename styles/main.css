@@ -1,3 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.one {
+}
+.two {
+}
+.three {
+}
+.four {
+}
+.five {
+}
 html {
     font-family: Arial, Helvetica, sans-serif;
     background-image: linear-gradient(to top right,#B2B2B2, #9BA4B5);
@@ -39,10 +54,13 @@ a {
     font-family: 'Bruno Ace SC', Arial;
     text-align: center;
 }
-div {
+p {
+    text-align: justify;
+}
+/* div {
     margin: 0% 20%;
     position: relative;
-}
+} */
 .strikeThrough {
     text-decoration: line-through;
 }
@@ -74,8 +92,8 @@ div {
         padding: 1px;
         border-radius: 50%;
     }
-    div {
+    /*div {
         margin: 0% 1%;
         position: relative;
-    }
+    } */
 }
